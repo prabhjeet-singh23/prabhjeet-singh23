@@ -4,12 +4,13 @@ BCA student (Data Analytics) at Symbiosis School for Online & Digital Learning, 
 I turn raw data into clear dashboards and insights.
 
  What I work with
-- Data analytics: Power BI, SQL, Tableau, R, spreadsheets
-- certification: Google Data Analytics Professional Certificate (2025)
-- Digital marketing: SEO, keyword research, content writing, Canva
+- Data analytics:** Power BI, SQL, Tableau, R, spreadsheets
+- Certification:** Google Data Analytics Professional Certificate (2025)
+- Digital marketing:** SEO, keyword research, content writing, Canva
 
  Projects
-- [Customer Retention Strategy (Power BI)](link to your churn repo): telecom customer churn analysis
+- [Customer Retention Strategy (Power BI)](https://github.com/YOUR-USERNAME/telco-churn-powerbi):
+  telecom churn dashboard showing month-to-month customers churn at 42.7% vs 2.8% for two-year contracts
 
  Looking for
 Data analytics and marketing analytics internships.
