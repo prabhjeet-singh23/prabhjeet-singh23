@@ -7,7 +7,7 @@ I turn raw data into clear dashboards and insights.
 - **Data analytics:** Power BI, SQL, Tableau, R, spreadsheets
 - **Certification:** Google Data Analytics Professional Certificate (2025)
 - **Digital marketing:** SEO, keyword research, content writing, Canva
-- 
+
 ## Projects
 - [Customer Retention Strategy (Power BI)](https://github.com/prabhjeet-singh23/telco-churn-powerbi):
   telecom churn dashboard showing month-to-month customers churn at 42.7% vs 2.8% for two-year contracts
